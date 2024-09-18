@@ -1,3 +1,4 @@
+#Bài 3: Pointer
 Con trỏ là 1 biến chứa địa chỉ của 1 biến khác.
 Sử dụng con trỏ để truyền vào 1 hàm (truyền tham chiếu) sẽ giúp ta thay đổi giá trị của 1 biến nằm ngoài hàm đó.
 Cách khai báo con trỏ: vd int *ptr; trong đó int là kiểu dữ liệu mà con trỏ đó trỏ tới.
